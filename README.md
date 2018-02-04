@@ -1,8 +1,8 @@
-# Project 1 - 
+# Project 1 - About me 
 ---
-This is a simple project demonstrating web application environment set up.
+This is a simple project demonstrating ** basic PHP web application ** and environment setup.
 
-[Project 1](http://p1.mushal.me) or go to (http://p1.mushal.me)
+To view go to: [Project 1](http://p1.mushal.me) or click (http://p1.mushal.me)
 
 ## References
 [PHP official site](http://php.net/manual/en/)
