@@ -1,10 +1,10 @@
-# Project 1
-## DWA
+# Project 1 - 
 ---
 This is a simple project demonstrating web application environment set up.
 
-(Project 1)<http://p1.mushal.me>
+[Project 1](http://p1.mushal.me) or go to (http://p1.mushal.me)
 
+## References
 [PHP official site](http://php.net/manual/en/)
 ----
 ## Contact
