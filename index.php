@@ -7,20 +7,20 @@
 	<link href="css/style.css" rel="stylesheet" type="text/css">
 </head>
 <body>
-	<section id="page"> <!-- Defining the #page section with the section tag -->
+	<section id="page">
 
-	    <header> <!-- Defining the header section of the page with the appropriate tag -->
+	    <header>
 
 	        <h1>Ala Mushal</h1>
 
 	        <h3>Welcome to my first PHP project</h3>
 
 	    </header>
-	<!-- Article 1 start -->
+	<!-- start Article  -->
 
-    <div class="line"></div>  <!-- Dividing line -->
+    <div class="line"></div>  
 
-    <article id="article1"> <!-- The new article tag. The id is supplied so it can be scrolled into view. -->
+    <article id="article1">
 
         <h2>About Me</h2>
 
@@ -28,7 +28,7 @@
 
         <div class="articleBody clear">
 
-            <figure> <!-- The figure tag marks data (usually an image) that is part of the article -->
+            <figure>
                 <a href="#">
                     <img src="images/me.jpg" width="328" height="366" alt="Ala Mushal" />
 								</a>
@@ -76,23 +76,16 @@
 
     </article>
 
-		<!-- Article 1 end -->
-		<footer> <!-- Marking the footer section -->
+		<!-- end Article -->
+		<footer> 
 
 		    <div class="line"></div>
 
-		    <p>Copyright 2018 - mushal.me</p> <!-- Change the copyright notice -->
-
-				<a href="#" class="up">Top</a>
+		    <p>Copyright 2018 - mushal.me</p>
 
 		</footer>
 
-    </section> <!-- Closing the #page section -->
+    </section> 
 
-		<!-- JavaScript Includes -->
-
-	     <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script>
-	     <script src="jquery.scrollTo-1.4.2/jquery.scrollTo-min.js"></script>
-	     <script src="js/main.js"></script>
 </body>
 </html>
